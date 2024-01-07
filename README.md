@@ -8,3 +8,7 @@ The 'Journal' page enables users to review their fasting history. Within a selec
 The implementation of features such as user authentication and a historical database for each user, providing an even more comprehensive posting experience, will follow soon.
 
 ![alt text](https://github.com/sabixcel/FastBud/blob/main/images/Fast.PNG?raw=true)
+![alt text](https://github.com/sabixcel/FastBud/blob/main/images/Homepage.PNG?raw=true)
+![alt text](https://github.com/sabixcel/FastBud/blob/main/images/Journal_Entries.PNG?raw=true)
+![alt text](https://github.com/sabixcel/FastBud/blob/main/images/Journal_Fasts.PNG?raw=true)
+![alt text](https://github.com/sabixcel/FastBud/blob/main/images/Journal_Stats.PNG?raw=true)
