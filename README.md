@@ -6,3 +6,5 @@ On the homepage, there is a form for users to input their personal data. The 'Fa
 The 'Journal' page enables users to review their fasting history. Within a selected period, they can edit, delete, or manually add a new entry. Additional information, such as total time fasted, total calories burned, and the longest fast, is also available.
 
 The implementation of features such as user authentication and a historical database for each user, providing an even more comprehensive posting experience, will follow soon.
+
+![alt text]([http://url/to/img.png](https://github.com/sabixcel/FastBud/blob/main/images/Fast.PNG)https://github.com/sabixcel/FastBud/blob/main/images/Fast.PNG)
