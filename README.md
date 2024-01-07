@@ -1,6 +1,4 @@
-# FastBud
-
-# Overview 
+# FastBud-Overview 
 A python application, using Streamlit framework for a Fasting Monitoring System.
 # Features 
 This is an intermittent fasting application designed to help users keep track of their fasting periods. It also includes useful information and calculators such as BMI, BMR, and TDEE.
